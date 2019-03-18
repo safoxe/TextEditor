@@ -15,9 +15,9 @@ namespace TextEditor
     {
         public Form1()
         {
-            InitializeComponent();           
-            Icon = new Icon(SystemIcons.Information,10,10);
-            
+            InitializeComponent();
+            Icon = new Icon(SystemIcons.Application, new Size(10, 10));
+           
                      
         }
 
